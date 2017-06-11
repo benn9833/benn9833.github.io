@@ -1,6 +1,6 @@
 ## Welcome to Ben Moroton's page
 
-You can use the [editor on GitHub](https://github.com/filescope/filescope.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[As a man thinketh](http://www.amazon.com/As-Man-Thinketh-James-Allen/dp/078583351X/) was written by James Allen (1864 - 1912) and first published in 1903. This book, which is more like a pamphlet in size, definitely gives you bang for your buck. Eachpage has great advice on how to have better character and a more focused life.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
