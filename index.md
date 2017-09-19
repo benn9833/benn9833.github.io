@@ -1,12 +1,12 @@
 # Benjamin Morton
 
 # EDUCATION AND RELATED COURSEWORK 	
-| Linear Algebra  | Foundations of C |
-|:-------:|:-------:|
-| Theory of Probability  | Calculus I - III  |
-| Differential Equations  | Intermediate Accounting I – III |
-| Financial Mathematics  |Auditing |
-| Financial Management I & II  | Individual Taxation |
+Linear Algebra  | Foundations of C 
+
+ Theory of Probability  | Calculus I - III  
+ Differential Equations  | Intermediate Accounting I – III
+ Financial Mathematics  |Auditing 
+ Financial Management I & II  | Individual Taxation 
 
 
 Clemson University Cumulative GPA: 3.59/4.00
