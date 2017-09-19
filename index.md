@@ -1,7 +1,12 @@
 # Benjamin Morton
 
 # EDUCATION AND RELATED COURSEWORK 	
-
+| Linear Algebra  |   |
+|---|---|
+| Theory of Probability  | Calculus I - III  |
+|   |   |
+|   |   |
+|   |   |
 Clemson University Cumulative GPA: 3.59/4.00
 Secretary of Clemson University’s Actuarial Club, Spring 2016 – present. 
 Linear Algebra
