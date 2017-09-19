@@ -4,16 +4,16 @@
 
 Clemson University Cumulative GPA: 3.59/4.00
 Secretary of Clemson University’s Actuarial Club, Spring 2016 – present. 
-•	Linear Algebra
-•	Theory of Probability
-•	Differential Equations
-•	Calculus I – III
-•	Financial Mathematics 
-•	Financial Management I & II
-•	Intermediate Accounting I – III
-•	Auditing
-•	Individual Taxation
-•	Foundations of C 
+Linear Algebra
+Theory of Probability
+Differential Equations
+Calculus I – III
+Financial Mathematics 
+Financial Management I & II
+Intermediate Accounting I – III
+Auditing
+Individual Taxation
+Foundations of C 
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
