@@ -2,22 +2,16 @@
 
 # EDUCATION AND RELATED COURSEWORK 	
 | Linear Algebra  |   |
-|---|---|
+|:-------:|:-------:|
 | Theory of Probability  | Calculus I - III  |
-|   |   |
-|   |   |
-|   |   |
+| Differential Equations  | Intermediate Accounting I – III |
+| Financial Mathematics  |Auditing |
+| Financial Management I & II  | Individual Taxation |
+
+
 Clemson University Cumulative GPA: 3.59/4.00
 Secretary of Clemson University’s Actuarial Club, Spring 2016 – present. 
-Linear Algebra
-Theory of Probability
-Differential Equations
-Calculus I – III
-Financial Mathematics 
-Financial Management I & II
-Intermediate Accounting I – III
-Auditing
-Individual Taxation
+
 Foundations of C 
 
 
