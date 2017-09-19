@@ -1,4 +1,4 @@
-<font size="+10"><b>Benjamin Morton</b></font>
+<font size="7">Benjamin Morton</font>
 
 <font size="1">You can use the [editor on GitHub](https://github.com/filescope/filescope.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.</font>
 
