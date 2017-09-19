@@ -1,7 +1,7 @@
 # Benjamin Morton
 
 # EDUCATION AND RELATED COURSEWORK 	
-| Linear Algebra  |   |
+| Linear Algebra  | Foundations of C |
 |:-------:|:-------:|
 | Theory of Probability  | Calculus I - III  |
 | Differential Equations  | Intermediate Accounting I – III |
@@ -12,7 +12,6 @@
 Clemson University Cumulative GPA: 3.59/4.00
 Secretary of Clemson University’s Actuarial Club, Spring 2016 – present. 
 
-Foundations of C 
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
