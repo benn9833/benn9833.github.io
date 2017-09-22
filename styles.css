@@ -2,7 +2,7 @@ div {
   margin-left: 30;
   }
 .header-center {
-  text-align: center;
+  float: center;
 }
 
 .header {
