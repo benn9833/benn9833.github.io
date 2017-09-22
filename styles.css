@@ -1,6 +1,9 @@
 div {
   margin-left: 30;
   }
+.header {
+  float: center;
+}
 
 p {
   margin: 30;
