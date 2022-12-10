@@ -2,7 +2,8 @@
 
 ## Related Experience
 ### Lincoln Financial Group, Greensboro NC
-#### Actuarial Associate, Group Protection <div align="right"> Aug 2021 - Present </div>
+#### Actuarial Associate, Group Protection 
+#### Aug 2021 - Present
 -	Analyzed and reported on a monthly and weekly basis underwriter performance against Pricing Strategy and Financial Plan.
 -	Collaborated with Pricing Strategy, Financial Planning, and Underwriting leadership in making recommendations on data structure and data tool features. 
 -	Checked and maintained data integrity via the use of Oracle SQL Developer, Dataiku, and Tableau.
