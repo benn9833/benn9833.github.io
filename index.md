@@ -1,4 +1,5 @@
-#Resume
+# Resume
 click [here](/cv.md)
-#Projects
+
+# Projects
 Valorant 10Mans Bot
