@@ -1,0 +1,35 @@
+/* assets/css/style.css */
+
+/* Global Styles */
+body {
+    background-color: #2d3339; /* Midnight background color */
+    color: #f0f0f0;            /* Light text color */
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+    color: #ffffff;
+    font-family: inherit;
+    margin-top: 1.5em;
+}
+
+/* Links */
+a {
+    color: #1e90ff; /* Dodger blue for links */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Main Content Container */
+.main-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2em;
+}
