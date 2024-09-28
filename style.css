@@ -1,2 +1,6 @@
 /* Change the background color */
-body { background-color: #121212 }
+body { 
+  background-color: #121212;
+  font-family: Arial, Veranda, sans-serif;
+  font-size: 12px;
+}
