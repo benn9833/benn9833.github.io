@@ -6,7 +6,6 @@ baseurl: ""                # Leave empty if your site is at the root of a domain
 url: "https://benn9833.github.io"  # Replace with your GitHub Pages URL
 
 # Build settings
-markdown: kramdown          # Default markdown processor
 theme: jekyll-theme-midnight               # Optional: you can choose another theme or remove this line if using custom styles
 #theme: jekyll-theme-minimal
 
@@ -20,7 +19,3 @@ exclude:
 plugins:
   - jekyll-feed             # Optional: Provides RSS feed support
   - jekyll-seo-tag          # Optional: Adds SEO metadata to pages
-
-# Optional - Markdown configuration
-kramdown:
-  input: GFM                # GitHub Flavored Markdown (GFM)
