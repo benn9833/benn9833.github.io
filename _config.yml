@@ -7,8 +7,8 @@ url: "https://benn9833.github.io"  # Replace with your GitHub Pages URL
 
 # Build settings
 markdown: kramdown          # Default markdown processor
-theme: midnight               # Optional: you can choose another theme or remove this line if using custom styles
-#theme: minimal
+theme: jekyll-theme-midnight               # Optional: you can choose another theme or remove this line if using custom styles
+#theme: jekyll-theme-minimal
 
 # Exclude folders/files
 exclude:
