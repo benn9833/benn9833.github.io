@@ -1,0 +1,25 @@
+# Site settings
+title: benn9833          # The title of your website
+description: >             # A description for your website
+  Welcome to my website where I share information about things I'm learning. 
+baseurl: ""                # Leave empty if your site is at the root of a domain (e.g., example.com)
+url: "https://benn9833.github.io"  # Replace with your GitHub Pages URL
+
+# Build settings
+markdown: kramdown          # Default markdown processor
+theme: minima               # Optional: you can choose another theme or remove this line if using custom styles
+
+# Exclude folders/files
+exclude:
+  - README.md               # Exclude the README file from being published
+  - Gemfile
+  - Gemfile.lock
+
+# Enable GitHub Pages' Jekyll processing
+plugins:
+  - jekyll-feed             # Optional: Provides RSS feed support
+  - jekyll-seo-tag          # Optional: Adds SEO metadata to pages
+
+# Optional - Markdown configuration
+kramdown:
+  input: GFM                # GitHub Flavored Markdown (GFM)
