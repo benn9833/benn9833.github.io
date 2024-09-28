@@ -1,3 +1,4 @@
+
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #333;
@@ -25,3 +26,6 @@
   background-color: #04AA6D;
   color: white;
 }
+
+/* Change the background color */
+body { background-color: #333 }
