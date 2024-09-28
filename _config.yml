@@ -1,21 +1,21 @@
 # Site settings
 title: benn9833          # The title of your website
-description: >           # A description for your website
+description: >             # A description for your website
   Welcome to my website where I share information about things I'm learning. 
 baseurl: ""                # Leave empty if your site is at the root of a domain (e.g., example.com)
 url: "https://benn9833.github.io"  # Replace with your GitHub Pages URL
 
-# Build settings
-theme: jekyll-theme-midnight               # Optional: you can choose another theme or remove this line if using custom styles
-#theme: jekyll-theme-minimal
+# Use the remote theme
+remote_theme: pages-themes/midnight@v0.2.0 # Specify the Midnight theme version
+
+# Plugins for GitHub Pages
+plugins:
+  - jekyll-feed             # Optional: Provides RSS feed support
+  - jekyll-seo-tag          # Optional: Adds SEO metadata to pages
+  - jekyll-remote-theme     # Ensures remote themes like Midnight work
 
 # Exclude folders/files
 exclude:
   - README.md               # Exclude the README file from being published
   - Gemfile
   - Gemfile.lock
-
-# Enable GitHub Pages' Jekyll processing
-#plugins:
-#  - jekyll-feed             # Optional: Provides RSS feed support
-#  - jekyll-seo-tag          # Optional: Adds SEO metadata to pages
