@@ -9,7 +9,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "default"
+      layout: "post"
 
 # Plugins for GitHub Pages
 plugins:
