@@ -3,17 +3,17 @@
 /* Global Styles */
 .topnav {
     display: flex;
-    justify-content: left; /* Center the links in the navigation bar */
+    justify-content: flex-start; /* Align the links to the left */
     align-items: center; /* Vertically center the links */
     background-color: #121212; /* Same background color */
-    padding: 10px 0; /* Add padding to give some vertical space */
+    padding: 10px 20px; /* Add padding for vertical and horizontal space */
 }
 
 .topnav a {
     color: #FFD700; /* Yellow color for the links */
     text-decoration: none; /* Remove underline */
-    font-size: 16px; /* Font size similar to Google's */
-    margin: 0 10px; /* Add horizontal space between the links */
+    font-size: 16px; /* Font size for readability */
+    margin-right: 20px; /* Add space to the right of each link */
 }
 
 .topnav a:hover {
@@ -23,6 +23,7 @@
 .topnav a.active {
     font-weight: bold; /* Highlight the active page */
 }
+
 
 
 body {
