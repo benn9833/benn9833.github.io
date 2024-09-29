@@ -1,6 +1,28 @@
 /* assets/css/style.css */
 
 /* Global Styles */
+.topnav {
+    display: flex; /* This aligns the items horizontally */
+    justify-content: space-around; /* Distribute space around the items */
+    background-color: #121212; /* Background color to match your theme */
+    padding: 10px 0; /* Some padding to give the navigation bar breathing room */
+}
+
+.topnav a {
+    color: #FFD700; /* Yellow color for the links */
+    text-decoration: none; /* Remove underline */
+    font-size: 16px; /* Adjust font size */
+    padding: 0 15px; /* Space between links */
+}
+
+.topnav a:hover {
+    color: #FFFF00; /* Brighter yellow when hovered */
+}
+
+.topnav a.active {
+    font-weight: bold; /* Highlight the active page */
+}
+
 body {
     background-color: #121212; /* Similar color to Chrome's dark background*/
     color: #f0f0f0;            /* Light text color */
