@@ -3,7 +3,7 @@
 /* Global Styles */
 .topnav {
     display: flex;
-    justify-content: center; /* Center the links in the navigation bar */
+    justify-content: left; /* Center the links in the navigation bar */
     align-items: center; /* Vertically center the links */
     background-color: #121212; /* Same background color */
     padding: 10px 0; /* Add padding to give some vertical space */
