@@ -6,7 +6,7 @@
     justify-content: flex-start; /* Align the links to the left */
     align-items: center; /* Vertically center the links */
     background-color: #121212; /* Same background color */
-    padding: 10px 20px; /* Add padding for vertical and horizontal space */
+    padding: /*10px*/ 20px; /* Add padding for vertical and horizontal space */
 }
 
 .topnav a {
