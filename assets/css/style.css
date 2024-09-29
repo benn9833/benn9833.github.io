@@ -13,7 +13,7 @@
     color: #FFD700; /* Yellow color for the links */
     text-decoration: none; /* Remove underline */
     font-size: 16px; /* Font size for readability */
-    margin-right: 10px; /* Add space to the right of each link */
+    margin-right: 15px; /* Add space to the right of each link */
 }
 
 .topnav a:hover {
