@@ -33,3 +33,21 @@ a:hover {
     /* margin: 0 auto;
     padding: 2em; */
 }
+
+/* Post List Styles */
+.post-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.post-list li {
+    margin-bottom: 2em;
+}
+
+.post-list h2 {
+    margin-bottom: 0.5em;
+}
+
+.post-list p {
+    margin: 0.5em 0;
+}
